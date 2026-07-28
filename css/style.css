@@ -51,13 +51,13 @@ align-items:center;
 justify-content:center;
 text-align:center;
 padding:20px;
-background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6));
+background:white;
 }
 
 .hero h2{
 font-family:'Cormorant Garamond',serif;
 font-size:3rem;
-color:#d4af37;
+color:#111;
 margin-bottom:20px;
 }
 
